@@ -36,7 +36,6 @@ function Headerdata() {
           </div>
         </div>
       </nav>
-
     </div >
   )
 }
